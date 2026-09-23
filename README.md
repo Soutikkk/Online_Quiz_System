@@ -1,6 +1,6 @@
-# 🎓 Online CSE Quiz System
+# 🎓 Online Quiz System
 
-A web-based **Computer Science Engineering Quiz System** built with **Python and Streamlit**. The application provides a large curated question bank covering major CSE domains and allows users to create customized quizzes based on category, difficulty, and number of questions.
+A web-based **Quiz System** built with **Python and Streamlit**. The application provides a large curated question bank covering major CSE domains and allows users to create customized quizzes based on category, difficulty, and number of questions.
 
 ---
 
